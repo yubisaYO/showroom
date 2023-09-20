@@ -1,0 +1,43 @@
+.myBg {
+  background: url("../Assets/trending/mobil-1.jpg");
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+.title {
+  font-size: 3rem;
+  text-align: center;
+  line-height: 1;
+  font-weight: bold;
+  color: darkcyan;
+  text-shadow: 2px 2px black;
+  letter-spacing: 4px;
+}
+
+.trending {
+  background: url("../Assets/trending/mobil-4.jpg");
+  background-size: cover;
+}
+
+.movieImage {
+  box-sizing: border-box;
+  margin: 5px;
+  border: 5px solid white;
+}
+
+.images {
+  height: 500px;
+}
+
+.supercar {
+  background: url("../Assets/trending/mobil-1.jpg");
+  background-size: cover;
+}
